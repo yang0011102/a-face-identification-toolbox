@@ -3,7 +3,7 @@ a face identification toolbox using Tensorflow.<br>
 <br>
 ## You can
 1: Detect faces in a image.<br>
-2: Detect age and gender in a image with simgle face.<br>
+2: Detect age and gender in a image with simgle face.(Due to some reasons, the result of age/gender mode is quiet bad. So try not to use this mode till I get new verison.)<br>
 <br>
 ## Requirements
 Python3.6<br>
