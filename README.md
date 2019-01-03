@@ -2,8 +2,8 @@
 a face identification toolbox using Tensorflow.<br>
 <br>
 ## You can
-1: Detect faces.<br>
-2: Detect And and gender in a image with simgle face.<br>
+1: Detect faces in a image.<br>
+2: Detect age and gender in a image with simgle face.<br>
 <br>
 ## Requirements
 Python3.6<br>
